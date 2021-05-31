@@ -4,21 +4,23 @@
 
 ## Dataset Information
 
-We use and compare various different methods for sentiment analysis on tweets (a binary classification problem). The training dataset is expected to be a csv file of type `Description,Sentiment_Analysis,Polarity,Topic` 
+We use and compare various different methods for sentiment analysis on tweets (a binary classification problem). The training dataset is expected to be a csv file of type `Description,Sentiment_Analysis,Polarity,Topic`.
 
 `Sentiment_Analysis` is either `1` (positive), `-1`(negative) and `0` (neutral). 
+
+`Polarity` is the value between 1 and -1.
+
+`Topic` categorizes it under 7 headings during sentiment analysis.
 
 ## Requirements
 
 There are some general library requirements for the project and some which are specific to individual methods. The general requirements are as follows.  
 * `numpy`
-* `scikit-learn`
-* `scipy`
+* `sklearn`
 * `nltk`
-
-The library requirements specific to some methods are:
-* `keras` with `TensorFlow` backend for LSTM
-* `xgboost` for XGBoost.
+* `nlp`
+* `keras` with `TensorFlow` backend for LSTM.
+* `matplotlib` 
 
 **Note**: It is recommended to use Anaconda distribution of Python.
 
