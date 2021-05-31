@@ -2,15 +2,11 @@
 * Sentiment analysis on tweets using Naive Bayes, SVM, Random Forest, LSTM. 
 * Twitter Scraper - Scrape tweets for a user or a every word.
 
-# Sentiment Analysis on Tweets
-
-![Status badge](https://img.shields.io/badge/Status-Archived-important)
-
-**Update**(21 Sept. 2018): I don't actively maintain this repository. This work was done for a course project and the dataset cannot be released because I don't own the copyright. However, everything in this repository can be easily modified to work with other datasets. I recommend reading the [sloppily written project report](https://github.com/abdulfatir/twitter-sentiment-analysis/tree/master/docs/report.pdf) for this project which can be found in `docs/`.
-
 ## Dataset Information
 
-We use and compare various different methods for sentiment analysis on tweets (a binary classification problem). The training dataset is expected to be a csv file of type `tweet_id,sentiment,tweet` where the `tweet_id` is a unique integer identifying the tweet, `sentiment` is either `1` (positive) or `0` (negative), and `tweet` is the tweet enclosed in `""`. Similarly, the test dataset is a csv file of type `tweet_id,tweet`. Please note that csv headers are not expected and should be removed from the training and test datasets.  
+We use and compare various different methods for sentiment analysis on tweets (a binary classification problem). The training dataset is expected to be a csv file of type `Description,Sentiment_Analysis,Polarity,Topic` 
+
+`Sentiment_Analysis` is either `1` (positive), `-1`(negative) and `0` (neutral). 
 
 ## Requirements
 
@@ -21,7 +17,7 @@ There are some general library requirements for the project and some which are s
 * `nltk`
 
 The library requirements specific to some methods are:
-* `keras` with `TensorFlow` backend for Logistic Regression, MLP, RNN (LSTM), and CNN.
+* `keras` with `TensorFlow` backend for LSTM
 * `xgboost` for XGBoost.
 
 **Note**: It is recommended to use Anaconda distribution of Python.
