@@ -10,7 +10,7 @@ We use and compare various different methods for sentiment analysis on tweets (a
 
 `Polarity` is the value between 1 and -1.
 
-`Topic` categorizes it under 7 headings during sentiment analysis.
+`Topic` categorizes it under 7 headings during sentiment analysis. (use savasy/Turkish-Bert-NLP-Pipeline)
 
 ## Requirements
 
