@@ -1,5 +1,5 @@
 # Twitter-Sentiment-Analysis-Covid-19
-Sentiment analysis on tweets using Naive Bayes, SVM, Random Forest, LSTM. 
+* Sentiment analysis on tweets using Naive Bayes, SVM, Random Forest, LSTM. 
 * Twitter Scraper - Scrape tweets for a user or a every word.
 
 # Sentiment Analysis on Tweets
