@@ -54,6 +54,29 @@ There are some general library requirements for the project and some which are s
 * Fig. 4.  TOP-5 FREQUENT WORDS FROM TWEETS IN THE COVIDSENTI DATA SETS
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![banner resmi](https://github.com/EfecanDemir/Twitter-Sentiment-Analysis-Covid-19/blob/main/pic/mart2020.JPG)
 * Fig. 5.  Word cloud of  2020 March tweets.
 
