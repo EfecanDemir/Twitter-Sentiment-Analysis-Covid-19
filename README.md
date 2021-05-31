@@ -39,4 +39,10 @@ There are some general library requirements for the project and some which are s
 * `code/scraper.ipynb`: Twitter data scraping and editing. 
 
 ## Example Models
+![banner resmi](https://github.com/EfecanDemir/Twitter-Sentiment-Analysis-Covid-19/blob/main/pic/sent1.png)
+
+![banner resmi](https://github.com/EfecanDemir/Twitter-Sentiment-Analysis-Covid-19/blob/main/pic/sent2.png)
+
+
+![banner resmi](https://github.com/EfecanDemir/Twitter-Sentiment-Analysis-Covid-19/blob/main/pic/sent3.png)
 
