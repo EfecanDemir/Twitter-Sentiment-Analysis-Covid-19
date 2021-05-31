@@ -40,3 +40,20 @@ There are some general library requirements for the project and some which are s
 
 ## Example Models
 
+![banner resmi](https://github.com/EfecanDemir/Twitter-Sentiment-Analysis-Covid-19/blob/main/pic/sent1.png)
+* Fig. 1. Timeline: sentiments with COVID-19 progression. <br/>
+
+![banner resmi](https://github.com/EfecanDemir/Twitter-Sentiment-Analysis-Covid-19/blob/main/pic/sent2.png)
+* Fig. 2. Distribution of dominant topics. <br/>
+
+![banner resmi](https://github.com/EfecanDemir/Twitter-Sentiment-Analysis-Covid-19/blob/main/pic/sent3.png)
+* Fig. 3.  Comparison of all results. <br/>
+
+![banner resmi](https://github.com/EfecanDemir/Twitter-Sentiment-Analysis-Covid-19/blob/main/pic/sent4.png)
+* Fig. 4.  TOP-5 FREQUENT WORDS FROM TWEETS IN THE COVIDSENTI DATA SETS <br/>
+
+<br/><br/>
+
+![banner resmi](https://github.com/EfecanDemir/Twitter-Sentiment-Analysis-Covid-19/blob/main/pic/mart2020.JPG)
+* Fig. 5.  Word cloud of  2020 March tweets.
+
