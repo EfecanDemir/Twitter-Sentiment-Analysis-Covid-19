@@ -40,4 +40,3 @@ There are some general library requirements for the project and some which are s
 
 ## Example Models
 
-* ## Example Models
