@@ -31,10 +31,9 @@ There are some general library requirements for the project and some which are s
 * `dataset/nisan_2020.csv`: List of 2020 April tweets. (25.321)
 * `dataset/mayis_2020.csv`: List of 2020 May tweets. (10.347)
 
-* `code/ocak2021.csv`: List analysis of 2021 January tweets. 
-* `code/mart2020.csv`: List analysis of 2020 March tweets. 
-* `code/nisan2020.csv`: List analysis of 2020 April tweets. 
-* `code/mayis2020.csv`: List analysis of 2020 May tweets. 
-* 
-* `dataset/scraper.ipynb`
-* `scraper.ipynb`: IPython notebook used to generate plots present in report.
+* `code/ocak2021.ipynb`: List analysis of 2021 January tweets. 
+* `code/mart2020.ipynb`: List analysis of 2020 March tweets. 
+* `code/nisan2020.ipynb`: List analysis of 2020 April tweets. 
+* `code/mayis2020.ipynb`: List analysis of 2020 May tweets. 
+
+* `code/scraper.ipynb`: Twitter data scraping and editing. 
